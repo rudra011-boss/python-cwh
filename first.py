@@ -50,3 +50,8 @@ for item in os.listdir(path):
 a = 1
 b = 2
 print (a + b)
+# qn2
+a=57
+z = 7
+print("the remainder we get on dividing a by z =", a%z)
+# qn3
