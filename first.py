@@ -39,9 +39,14 @@ How I wonder what you are! ''')
 import os
 
 # Specify the directory path
-path = "/"
+path = "."
 
 # List and print all contents of the directory
 print("Contents of the directory:")
 for item in os.listdir(path):
     print(item)
+# ps2
+# qn1
+a = 1
+b = 2
+print (a + b)
