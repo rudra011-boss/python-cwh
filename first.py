@@ -55,3 +55,5 @@ a=57
 z = 7
 print("the remainder we get on dividing a by z =", a%z)
 # qn3
+a = int(input("enter the value of a"))
+print (type(a))
