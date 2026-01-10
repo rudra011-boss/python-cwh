@@ -55,5 +55,9 @@ a=57
 z = 7
 print("the remainder we get on dividing a by z =", a%z)
 # qn3
-a = int(input("enter the value of a"))
+a = int(input("enter the value of a: "))
 print (type(a))
+#qn4
+a = int(input("enter value of a : "))
+b = int(input("enter value of b : "))
+print("a is grater than b is ",a>b)
