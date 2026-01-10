@@ -35,3 +35,13 @@ Though I know not what you are,
 Twinkle, twinkle, little star.
 Twinkle, twinkle, little star,
 How I wonder what you are! ''')
+#qn4
+import os
+
+# Specify the directory path
+path = "/"
+
+# List and print all contents of the directory
+print("Contents of the directory:")
+for item in os.listdir(path):
+    print(item)
