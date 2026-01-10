@@ -61,3 +61,7 @@ print (type(a))
 a = int(input("enter value of a : "))
 b = int(input("enter value of b : "))
 print("a is grater than b is ",a>b)
+#qn5
+a = float(input("enter value of a :"))
+b = float(input("enter value of b :"))
+print("the average of a and b is :",(a+b)/2)
