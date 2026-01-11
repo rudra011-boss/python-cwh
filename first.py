@@ -68,3 +68,4 @@ print("the average of a and b is :",(a+b)/2)
 #qn6
 a = int(input("enter the value of a  :"))
 print("the square of a is",a**2)
+# ps1 and ps2 end
