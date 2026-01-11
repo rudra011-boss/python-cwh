@@ -23,3 +23,4 @@ print(name.replace("  "," "))# Strings are immutable which means that you cannot
 # qn5
 letter = "Dear harry,\n\t this python course is nice.\n Thanks!"
 print(letter)
+# ps 4
