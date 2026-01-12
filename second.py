@@ -63,6 +63,9 @@ str(T[1])
 print(type(T[1])))'''
 
 #qn4
-list = [5,6,4,2]
-print(sum(list))
+'''(list = [5,6,4,2]
+print(sum(list)))'''
+#qn5
+a = (7,0,8,0,0,9)
+print(a.count(0))
 
