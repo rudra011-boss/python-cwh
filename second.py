@@ -25,7 +25,7 @@ letter = "Dear harry,\n\t this python course is nice.\n Thanks!"
 print(letter)
 # ps 4
 # Qn 1
-fruit = []
+'''( fruit = []
 f1 = input("enter 1st fruit name :")
 fruit.append(f1)
 f2 = input("enter 2nd fruit name :")
@@ -40,4 +40,20 @@ f6 = input("enter 6th fruit name :")
 fruit.append(f6)
 f7 = input("enter 7th fruit name :")
 fruit.append(f7)
-print(fruit)
+print(fruit) )'''
+#qn2
+marks = []
+m1 = input("enter marks of 1st student")
+marks.append(m1)
+m2 = input("enter marks of 2nd student")
+marks.append(m2)
+m3 = input("enter marks of 3rd student")
+marks.append(m3)
+m4 = input("enter marks of 4th student")
+marks.append(m4)
+m5 = input("enter marks of 5th student")
+marks.append(m5)
+m6 = input("enter marks of 6th student")
+marks.append(m6)
+marks.sort()
+print(marks)
