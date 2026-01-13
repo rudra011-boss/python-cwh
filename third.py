@@ -32,8 +32,11 @@ s.add(18)
 s.add("18")
 print(s) )'''
 #qn4
-s = set ()
+'''(s = set ()
 s.add(20)
 s.add(20.0)
 s.add('20')
-print(len(s))
+print(len(s)))'''
+#qn5
+s = {}
+print(type(s))
