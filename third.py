@@ -42,7 +42,7 @@ print(len(s)))'''
 print(type(s))'''
 #qn6
 
-d = {}
+'''(d = {}
 name = input("enter friend name:")
 lang = input("enter fav language :" )
 d.update({name:lang})
@@ -65,4 +65,8 @@ lang = input("enter fav language :" )
 d.update({name:lang})
 
 
-print(d)
+print(d))'''
+#qn9
+# s = {8,7,12,"Harry",[1,2]}
+#no we cant change the value of list inside a set.even we can't keep list as an element off set.
+#elements in set shoud be imutable and hashable
