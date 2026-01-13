@@ -38,5 +38,31 @@ s.add(20.0)
 s.add('20')
 print(len(s)))'''
 #qn5
-s = {}
-print(type(s))
+'''(s = {}
+print(type(s))'''
+#qn6
+
+d = {}
+name = input("enter friend name:")
+lang = input("enter fav language :" )
+d.update({name:lang})
+
+
+
+name = input("enter friend name:")
+lang = input("enter fav language :" )
+d.update({name:lang})
+
+
+name = input("enter friend name:")
+lang = input("enter fav language :" )
+d.update({name:lang})
+
+
+name = input("enter friend name:")
+lang = input("enter fav language :" )
+
+d.update({name:lang})
+
+
+print(d)
