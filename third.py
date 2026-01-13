@@ -10,7 +10,7 @@
 word = int(input("int(input hindi words to see their english translation: "))
 print("meaning =",hindi_dict.get(word)))'''
 #qn2
-s = set()
+'''(s = set()
 n = int(input("enter number 1: "))
 s.add(n)
 n = int(input("enter number2: "))
@@ -25,4 +25,15 @@ n = int(input("enter number 6: "))
 s.add(n)
 n = int(input("enter number 7: "))
 s.add(n)
-print(s)
+print(s))'''
+#qn3
+'''(s = set()
+s.add(18)
+s.add("18")
+print(s) )'''
+#qn4
+s = set ()
+s.add(20)
+s.add(20.0)
+s.add('20')
+print(len(s))
