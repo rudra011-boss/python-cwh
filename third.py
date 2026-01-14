@@ -70,3 +70,17 @@ print(d))'''
 # s = {8,7,12,"Harry",[1,2]}
 #no we cant change the value of list inside a set.even we can't keep list as an element off set.
 #elements in set shoud be imutable and hashable
+
+# Quiz queation
+a=int(input("enter yout age:"))
+if(a>=18):
+    print("you are above the age  of concent")
+elif(a==0):
+    print("zero can't be the age,please enter the valid age")
+
+elif(a<0):
+    print("please enter the valid age")
+else:
+    print("you are below the age of concent")
+
+print("end of program")
